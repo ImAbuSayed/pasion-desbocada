@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-desbocada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Pasión desbocada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-desbocada/) |
+| **Get License** | [Commercial Licensing for Pasión desbocada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-desbocada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes conmigo
+> La luna de Madrid sabe que yo te persigo
+> Una mirada tuya y ya pierdo el sentido
+> Tu cuerpo y el mío, ese es el objetivo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
