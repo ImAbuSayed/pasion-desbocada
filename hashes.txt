@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión desbocada
+
+This log tracks the cryptographic history and versioning for the song **Pasión desbocada** (pasion-desbocada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:47:09.103938 | `v1` | `2dd6c1850cc780cf7aee44ccd65719496d2bf69c6989e8759b4b2f52717b19b6` | `5ec655f1724c39179955fd272a79fd259d36d15dd0cd52234708d7ec6caa504f` | `2026-06-17_pasion-desbocada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

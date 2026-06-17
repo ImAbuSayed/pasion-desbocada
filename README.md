@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-desbocada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión desbocada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-desbocada/) |
+| **Get License** | [Obtain a Music License for Pasión desbocada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-desbocada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2dd6c1850cc780cf7aee44ccd65719496d2bf69c6989e8759b4b2f52717b19b6` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
